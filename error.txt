@@ -1,0 +1,534 @@
+2026-01-24T14:00:07.713090500 - Error reading stock file
+Exception: Warehouse.csv (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T14:17:38.906616800 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T14:23:37.840572800 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T14:28:18.865158100 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T14:37:50.249414100 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T14:40:52.265299800 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T14:43:41.632132400 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T14:44:02.387106900 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T14:46:28.340677300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T14:57:19.903557300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T14:59:16.593974100 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T15:07:42.308431700 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T15:25:10.682049600 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T15:38:10.145099300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T15:41:02.521079600 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:03:01.437123300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:07:06.863770500 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:09:38.199702800 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:13:18.194836600 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:14:11.504044800 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:38:00.888650500 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:39:02.869359300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:39:02.873148200 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T16:39:08.520241400 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:48:10.125403500 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:48:10.307687300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:48:10.307687300 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T16:50:24.891012400 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:50:25.068193200 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:50:25.073529800 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T16:50:48.054069 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:50:48.057767 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T16:50:49.311800 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:52:12.070521500 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:52:12.236537900 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:52:12.253071100 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T16:59:27.063988300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:59:27.263004500 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T16:59:27.278004200 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:06:19.343919700 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:06:19.540556700 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:06:19.540556700 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:10:43.273401300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:10:43.446074400 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:10:43.446074400 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:13:03.796680300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:13:03.976905900 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:13:03.976905900 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:13:58.364197800 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:13:58.581791800 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:13:58.581791800 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:17:34.378844600 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:17:34.594809400 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:17:34.594809400 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:18:24.791078300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:18:24.991312100 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:18:24.991312100 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:25:20.590809900 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:25:20.763098600 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:25:20.778140800 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:26:03.234668200 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:26:03.416788600 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:26:03.416788600 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:26:18.738104700 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:26:18.922440100 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:26:18.922440100 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:27:11.120232100 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:27:11.302323500 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:27:11.302323500 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:28:12.685977400 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:28:12.900998700 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:28:12.900998700 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:28:43.268632300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:28:43.451814700 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:28:43.451814700 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:41:31.799390800 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:41:31.978514900 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:41:31.980376700 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:44:17.943884100 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:44:18.111206400 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:44:18.111206400 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:45:39.108145200 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:45:39.284977600 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:45:39.284977600 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:47:10.827622900 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:47:11.023546300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:47:11.023546300 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:50:07.401517500 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:50:07.401517500 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:50:11.107873500 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:50:13.725356100 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:50:13.725356100 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:50:16.857371900 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:50:16.858325400 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:50:33.726239800 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:50:33.726239800 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:50:50.840939600 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:50:51.029336900 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:50:51.029336900 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T17:50:58.008547400 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:51:03.198945600 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:51:25.171857700 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T17:51:25.175324900 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:00:52.246314500 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:00:52.429949400 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:00:52.432946900 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:01:26.415590800 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:01:26.415590800 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:06:24.063647200 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:06:24.252801100 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:06:24.252801100 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:19:48.021591200 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:19:48.202268100 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:19:48.202268100 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:27:28.523113100 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:27:28.673044900 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:27:28.673044900 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:36:25.394268100 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:36:25.565042400 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:36:25.565042400 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:36:29.124803 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:36:29.124803 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:37:09.431597500 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:37:09.597530600 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:37:09.597530600 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:39:15.433568800 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:39:15.613952200 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:39:15.615382700 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:39:19.812339300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:39:19.816358400 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:39:20.905983700 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:39:43.894070500 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:39:43.894070500 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:39:45.581371500 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:39:47.204352100 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:40:00.027115700 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:40:00.029128600 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:40:14.370931400 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:40:14.370931400 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:40:54.195273200 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:40:54.195273200 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:42:09.787863600 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:42:09.974022400 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:42:09.974022400 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:48:57.920070600 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:48:57.935107200 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:49:08.540625300 - Error reading product lines file
+Exception: ProductLine.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:49:43.994710200 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:49:43.994710200 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:49:53.144083500 - Error reading product lines file
+Exception: ProductLine.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:50:26.240226500 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:50:26.242132900 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:50:33.256456700 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:50:33.261655500 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:50:35.335143700 - Error reading product lines file
+Exception: ProductLine.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:50:44.784974 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:55:10.895116500 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:55:10.895116500 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:57:08.334976700 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:57:08.346087100 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:57:10.876597700 - Error reading product lines file
+Exception: ProductLine.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:57:45.642884800 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:57:45.646269300 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:58:10.738202700 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:58:10.738202700 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:58:12.238032200 - Error reading product lines file
+Exception: ProductLine.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:58:16.207573300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:58:31.309091 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:58:31.310038800 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:58:59.216040300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:58:59.227755700 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:59:00.557922600 - Error reading product lines file
+Exception: ProductLine.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:59:41.536986300 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T18:59:41.536986300 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T18:59:47.074833200 - Error reading product lines file
+Exception: ProductLine.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T19:51:49.289222100 - Invalid line in stock file: 1,Iron,Raw,10.0,0,3
+Exception: wrong data inserting please chang the quantity and don't let any celles empty
+-----------------------------------
+2026-01-24T19:51:49.289222100 - Error reading product lines file
+Exception: ProductLines.txt (The system cannot find the file specified)
+-----------------------------------
+2026-01-24T19:51:51.283555 - Error reading product lines file
+Exception: ProductLine.txt (The system cannot find the file specified)
+-----------------------------------
